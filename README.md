@@ -17,7 +17,7 @@ This project converts raw housing data into a production-ready prediction tool. 
 ```
 ├── data/                     # Raw CSV data
 ├── templates/                # HTML templates (form + result)
-├── sample images/            # Screenshots of working web app
+├── demo/            # Screenshots of working web app
 │   ├── pic1.jpg
 │   ├── pic2.jpg
 │   └── pic3.jpg
@@ -143,13 +143,13 @@ Live app link: [https://house-price-prediction-afma.onrender.com/](https://house
 Below are screenshots showing how the app responds to different house input features:
 
 ### 🏠 Prediction Example 1
-![Prediction Example 1](sample_images/pic1.png)
+![Prediction Example 1](demo/pic1.jpg)
 
 ### 🏠 Prediction Example 2
-![Prediction Example 2](sample_images/pic2.png)
+![Prediction Example 2](demo/pic2.jpg)
 
 ### 🏠 Prediction Example 3
-![Prediction Example 3](sample_images/pic3.png)
+![Prediction Example 3](demo/pic3.jpg)
 
 
 ## License
