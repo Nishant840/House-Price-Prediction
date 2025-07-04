@@ -138,13 +138,18 @@ Live app link: [https://house-price-prediction-afma.onrender.com/](https://house
 
 ---
 
-## Sample Output Screenshots
+## 🖼️ Demo Screenshots
 
-Screenshots can be found inside the `sample images` folder:
+Below are a few screenshots demonstrating the web app in action:
 
-* sample images/pic1.jpg
-* sample images/pic2.jpg
-* sample images/pic3.jpg
+### 🏡 Homepage
+![Homepage](sample_images/pic1.png)
+
+### 🧾 Prediction Form
+![Prediction Form](sample_images/pic2.png)
+
+### 📊 Prediction Result
+![Prediction Result](sample_images/pic3.png)
 
 ---
 
