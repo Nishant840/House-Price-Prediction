@@ -12,14 +12,15 @@ This project converts raw housing data into a production-ready prediction tool. 
 
 ---
 
-## Project Structure
+## 📂 Repository Structure
 
+```
 ├── .ipynb_checkpoints/            # Jupyter notebook auto-save checkpoints
 ├── data/                          # Raw CSV data
 ├── demo/                          # Screenshots of working web app
-│   ├── pic1.jpg                   # Homepage screenshot
-│   ├── pic2.jpg                   # User input form
-│   └── pic3.jpg                   # Prediction result
+│   ├── pic1.jpg                   # App Homepage
+│   ├── pic2.jpg                   # User Input Form
+│   └── pic3.jpg                   # Prediction Output
 ├── templates/                     # HTML templates (form + result)
 ├── .python-version                # Python version for deployment
 ├── House_Price_Prediction.ipynb  # Notebook with EDA + model training
@@ -28,9 +29,8 @@ This project converts raw housing data into a production-ready prediction tool. 
 ├── main.py                        # Flask backend
 ├── model.pkl                      # Trained ML pipeline (preprocessing + model)
 ├── render.yaml                    # Render deployment configuration
-├── requirements.txt               # Required Python libraries
-
----
+├── requirements.txt              # Required Python libraries
+```
 
 ## Steps Followed
 
