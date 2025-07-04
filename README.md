@@ -138,20 +138,19 @@ Live app link: [https://house-price-prediction-afma.onrender.com/](https://house
 
 ---
 
-## 🖼️ Demo Screenshots
+## 🖼️ Sample Predictions for Different Inputs
 
-Below are a few screenshots demonstrating the web app in action:
+Below are screenshots showing how the app responds to different house input features:
 
-### 🏡 Homepage
-![Homepage](sample_images/pic1.png)
+### 🏠 Prediction Example 1
+![Prediction Example 1](sample_images/pic1.png)
 
-### 🧾 Prediction Form
-![Prediction Form](sample_images/pic2.png)
+### 🏠 Prediction Example 2
+![Prediction Example 2](sample_images/pic2.png)
 
-### 📊 Prediction Result
-![Prediction Result](sample_images/pic3.png)
+### 🏠 Prediction Example 3
+![Prediction Example 3](sample_images/pic3.png)
 
----
 
 ## License
 
